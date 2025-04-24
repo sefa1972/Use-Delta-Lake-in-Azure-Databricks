@@ -57,6 +57,11 @@ Resource group and associated services
 ### References
 Delta Lake Documentation
 
+## 👤 Author >>  Sefa Öztürk
+
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
 
 
 
